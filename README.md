@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Django on OpenShift
 ===================
 
@@ -76,3 +77,9 @@ will be displayed, so be sure to save it somewhere. You might want
 to pipe the output of the git push to a text file so you can grep for
 the password later.
 
+=======
+django
+======
+
+Django Project
+>>>>>>> b1fc86153b6498e44aeee6203fa49036e0267fad
